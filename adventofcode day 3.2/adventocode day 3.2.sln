@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "adventocode day 3.2", "adventocode day 3.2\adventocode day 3.2.pyproj", "{6E4238CB-4A80-4B29-9419-E95077A36A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E4238CB-4A80-4B29-9419-E95077A36A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4238CB-4A80-4B29-9419-E95077A36A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C30FA102-A265-4386-9EC2-67F812E3E1C8}
+	EndGlobalSection
+EndGlobal
